@@ -23,7 +23,6 @@
  "tilesets":[
         {
          "firstgid":1,
-         "keep":true,
          "name":"tileset",
          "tileheight":32,
          "tilewidth":32,
