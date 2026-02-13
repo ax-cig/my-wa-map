@@ -1,42 +1,30 @@
 {
-    "compressionlevel": -1,
-    "height": 10,
-    "infinite": false,
-    "layers": [
+ "height":10,
+ "layers":[
         {
-            "data": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-            "height": 10,
-            "id": 1,
-            "name": "floor",
-            "opacity": 1,
-            "type": "tilelayer",
-            "visible": true,
-            "width": 10,
-            "x": 0,
-            "y": 0
-        }
-    ],
-    "nextlayerid": 2,
-    "nextobjectid": 1,
-    "orientation": "orthogonal",
-    "renderorder": "right-down",
-    "tiledversion": "1.10.1",
-    "tileheight": 32,
-    "tilesets": [
+         "data":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+         "height":10,
+         "id":1,
+         "name":"floor",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }],
+ "orientation":"orthogonal",
+ "tileheight":32,
+ "tilesets":[
         {
-            "firstgid": 1,
-            "name": "tileset",
-            "tileheight": 32,
-            "tilewidth": 32,
-            "columns": 8,
-            "image": "https://play.workadventu.re/tileset1.png",
-            "imageheight": 600,
-            "imagewidth": 256,
-            "tilecount": 150
-        }
-    ],
-    "tilewidth": 32,
-    "type": "map",
-    "version": "1.10",
-    "width": 10
+         "firstgid":1,
+         "name":"tileset",
+         "tileheight":32,
+         "tilewidth":32,
+         "image":"tileset1.png"
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":"1.10",
+ "width":10
 }
